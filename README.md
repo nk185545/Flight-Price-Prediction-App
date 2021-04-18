@@ -2,17 +2,15 @@
 
 This application tell us about the Fare of flight .
 
-The App Link :    https://flight-price-predction-ml-app.herokuapp.com/
+The App Link :   https://flight-price-predition-app-nk.herokuapp.com/
 
 Application Video link :   https://drive.google.com/file/d/1ZUmiqKlnXbiQRqVKEpiKNNe_2zE3BjN1/view?usp=sharing
 
 Some Glimpses of Application : 
 
-![rcd1](https://user-images.githubusercontent.com/61588604/108451141-51e6cc00-728c-11eb-90c7-969af53c94b8.png)
-
-![rcd2](https://user-images.githubusercontent.com/61588604/108451179-62974200-728c-11eb-981b-87f5e7383a34.png)
-
-![rcd3](https://user-images.githubusercontent.com/61588604/108451237-78a50280-728c-11eb-806c-7b23e518f539.png)
+![fpp1](https://user-images.githubusercontent.com/80478598/115141674-4846ce00-a05b-11eb-8771-491eea56ae47.png)
+![fpp2](https://user-images.githubusercontent.com/80478598/115141678-4c72eb80-a05b-11eb-8879-889ba96cf1ae.png)
+![fpp3](https://user-images.githubusercontent.com/80478598/115141680-4e3caf00-a05b-11eb-9905-035324d4e990.png)
 
 
 
